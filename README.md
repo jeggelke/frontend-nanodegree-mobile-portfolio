@@ -31,11 +31,11 @@ Some useful tips to help you get started:
 Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
 <h3>Changes I made</h3>
-	<ul>
-		<li>1</li>
-		<li>2</li>
-		<li>3</li>
-	</ul>
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
