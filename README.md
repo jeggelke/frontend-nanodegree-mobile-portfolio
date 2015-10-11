@@ -30,12 +30,14 @@ Some useful tips to help you get started:
 
 Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
-<h3>Changes I made</h3>
-<ul>
-<li>1</li>
-<li>2</li>
-<li>3</li>
-</ul>
+#####Changes I made
+
+* Resized ```pizzeria.jpg``` image
+* Added async to Google Analytics Script
+* Added media attribute to Print stylesheet
+* Replaced ```style.css``` with inline styles
+* Replaced Google Font stylesheet with ```webfont.js```
+* Compressed ```profilepic.jpg```
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
